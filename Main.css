@@ -29,8 +29,8 @@ li a{
 
 }
 li a:hover{
-    background-color: #EEEEEE;
-    color:black;
+    background-color: black;
+    color:#EEEEEE;
 }
 
 body {
