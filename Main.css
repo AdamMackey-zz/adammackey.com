@@ -31,7 +31,7 @@ li a{
 li a:hover{
     background-color: #EEEEEE;
     color:black;
-    outline : 5px solid black;
+    border : 5px solid black;
 }
 
 body {
