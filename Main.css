@@ -31,7 +31,8 @@ li a{
 li a:hover{
     background-color: #EEEEEE;
     color:black;
-    border: 5px solid red;
+   /* border: 5px solid red; */
+    box-shadow: 5px 
 }
 
 body {
